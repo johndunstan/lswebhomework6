@@ -8,6 +8,14 @@
 	* Parameters
 	* Arguments
 	* `if` statements
+______________________________
+DEFINITIONS
+
+Fuctions: A small block of code you can give a special name and run over and over.
+Parameters: When you create a function, you can also tell it to give you little bits of information from when it's called - the function calls those bits of information parameters.
+Arguments: These are the specific inputs passed to the function to use as parameters. The function may see 'name' as it's parameter, but recieve 'John' as the argument when the fuction is called.
+'if' statements: A chunk of code that thinks through series of logic: if a condition is met, then do this specific thing.
+______________________________
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
 
